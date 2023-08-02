@@ -3,3 +3,5 @@ this is my first commit
 And here we go with commit #2
 
 After i have committed the second commit!
+
+this is how i deal with the error
